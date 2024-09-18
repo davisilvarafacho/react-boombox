@@ -1,0 +1,34 @@
+/* fonts */
+@font-face {
+    font-family: "just-sans";
+    src: url("/src/assets/fonts/just-sans.otf");
+}
+
+@font-face {
+    font-family: "wondra";
+    src: url("/src/assets/fonts/wondra.ttf");
+}
+
+@font-face {
+    font-family: "ubuntu";
+    src: url("/src/assets/fonts/ubuntu.ttf");
+}
+
+@font-face {
+    font-family: "league-spartan";
+    src: url("/src/assets/fonts/league-spartan.ttf");
+}
+
+@font-face {
+    font-family: "lexend";
+    src: url("/src/assets/fonts/lexend.ttf");
+}
+
+/* custom css */
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.brand-title {
+    font-family: "wondra" !important;
+}
